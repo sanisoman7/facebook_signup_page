@@ -74,26 +74,27 @@ body{
     font-size: 21px;
 }
 .field1{
-    height: 27px;
-    width: 200px;
+    height: 33px;
+    width: 225px;
     border-radius: 4px;  
     border-color: #a1a8b8;
     border: solid 1px;
 }
 .smallp{
     font-weight: bold;
+    font-size: 20px;
 }
 .field2{
-    height: 27px;
-    width: 414px;  
+    height: 33px;
+    width: 460px;  
     border-radius: 4px; 
     border-color: #a1a8b8; border: solid 1px;
 
 }
 .days{
     border: solid 1px;
-    width: 60px;
-    height: 27px;
+    width: 70px;
+    height: 33px;
     border-radius: 4px;
     border-color: #a1a8b8;
 }
@@ -103,12 +104,15 @@ body{
     
 }
 .end{
-    color: #0b2650;
     font-weight: lighter;
+    font-family:verdana;
+    font-size: 12px;
+
 }
+
 .btn{
-    height: 27px;
-    width: 150px;
+    height: 33px;
+    width: 160px;
     font-size: 16px;
     border-color: grey;
     background-color: rgb(23, 120, 23);
